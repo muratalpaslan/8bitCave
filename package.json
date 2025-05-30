@@ -2,7 +2,7 @@
   "name": "8bitcave-theme",
   "displayName": "8bitCave Theme",
   "description": "A retro-inspired VS Code theme with 8-bit aesthetics",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "muratalpaslan",
   "engines": {
     "vscode": "^1.60.0"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/8bitCave-theme"
+    "url": "https://github.com/muratalpaslan/8bitCave"
   },
   "keywords": [
     "theme",
