@@ -1,8 +1,8 @@
 {
   "name": "8bitcave-theme",
-  "displayName": "8bitCave Theme",
+  "displayName": "8bit Cave Theme",
   "description": "A retro-inspired VS Code theme with 8-bit aesthetics",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "muratalpaslan",
   "engines": {
     "vscode": "^1.60.0"
