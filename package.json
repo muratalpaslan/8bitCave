@@ -1,0 +1,54 @@
+{
+  "name": "8bitcave-theme",
+  "displayName": "8bitCave Theme",
+  "description": "A retro-inspired VS Code theme with 8-bit aesthetics",
+  "version": "0.0.5",
+  "publisher": "muratalpaslan",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "8bit Cave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/8bit Cave (Dark).json"
+      },
+      {
+        "label": "8bit Sunshine",
+        "uiTheme": "vs",
+        "path": "./themes/8bit Sunshine (Light).json"
+      },
+      {
+        "label": "8bit Underground",
+        "uiTheme": "vs-dark",
+        "path": "./themes/8bit Underground(High Contrast).json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/8bitCave-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "retro",
+    "8bit",
+    "pixel art"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.15.0"
+  }
+} 
